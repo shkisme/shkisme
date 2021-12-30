@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![shkisme's github stats](https://github-readme-stats.vercel.app/api?username=shkisme&show_icons=true)
 
 <a href="https://twitter.com/Borum_isme" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
 <a href="https://brilliantcse.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFCD00?style=flat-square&logo=Tistory&logoColor=white"/></a>
