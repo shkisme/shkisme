@@ -1,4 +1,4 @@
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shk010130">
+<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shk010130">
 
 <h3 align="center"><b>🛠 Stack 🛠</b></h3>
 </br>
@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp
 
-</br>
+<hr>
 
 ![�shkisme's github stats](https://github-readme-stats.vercel.app/api?username=shkisme&show_icons=true)
 
