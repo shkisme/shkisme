@@ -1,6 +1,6 @@
 
-![😺shkisme's github stats](https://github-readme-stats.vercel.app/api?username=shkisme&show_icons=true)
-[![shkisme's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shkisme&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/shkisme)
+![�shkisme's github stats](https://github-readme-stats.vercel.app/api?username=shkisme&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkisme)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
