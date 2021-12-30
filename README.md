@@ -1,5 +1,3 @@
-## Hi! :wave:
-- 부산대학교 정보컴퓨터공학부 재학
 
 <h3 align="center"><b>🛠 Stack 🛠</b></h3>
 </br>
