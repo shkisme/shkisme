@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### sns list
+<a href="https://twitter.com/Borum_isme" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+
 <!--
 **shkisme/shkisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
