@@ -12,6 +12,9 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp
 
 
+[![Solved.ac
+shk010130](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkisme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
