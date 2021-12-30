@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shk010130">
-
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkisme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
