@@ -10,12 +10,13 @@
 
 <hr>
 
-![�shkisme's github stats](https://github-readme-stats.vercel.app/api?username=shkisme&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkisme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr>
-<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shk010130">
+![�shkisme's github stats](https://github-readme-stats.vercel.app/api?username=shkisme&show_icons=true)
+
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shk010130">
+
 
 <!--
 **shkisme/shkisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
