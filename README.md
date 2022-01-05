@@ -14,7 +14,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkisme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![�shkisme's github stats](https://github-readme-stats.vercel.app/api?username=shkisme&show_icons=true)
-
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shk010130">
 
 
