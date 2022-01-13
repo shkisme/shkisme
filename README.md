@@ -1,4 +1,6 @@
 
+
+
 <h3 align="center"><b>Skills</b></h3>
 </br>
 <p align="center">
@@ -14,9 +16,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkisme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shk010130">
+<div align = "center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkisme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shk010130">
+  
+</div>
 
+<!--
 ![�shkisme's github stats](https://github-readme-stats.vercel.app/api?username=shkisme&show_icons=true&height="165")
+-->
 
 <hr>
 <h3 align="center"><b>Contact</b></h3>
