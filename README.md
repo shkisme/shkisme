@@ -18,4 +18,4 @@ I'm a student at <b><a href="https://www.pusan.ac.kr/kor/Main.do">Pusan National
 
 ## Contact
 <p align="center">
-<a href="mailto:shkisme0130@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/shkisme0130@gmail.com-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
