@@ -1,8 +1,4 @@
-# Hello ! 🥰
-<h3>HyunKyung Son is me!<br></h3>
 
-I'm a student at <b><a href="https://www.pusan.ac.kr/kor/Main.do">Pusan National University</a></b>, and I'm a sophomore majoring in <b>Computer Science</b>.
-(2021.03~)
 ## Github
 <div align = "center">
   
@@ -13,6 +9,8 @@ I'm a student at <b><a href="https://www.pusan.ac.kr/kor/Main.do">Pusan National
 ## BOJ rank
 <div align = "center">
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shk010130">
+  <br><br>
+  ...🔥
 </div>
 
 
