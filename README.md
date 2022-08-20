@@ -12,8 +12,3 @@
   <br><br>
   ...🔥
 </div>
-
-
-## Contact
-<p align="center">
-<img src="https://img.shields.io/badge/shkisme0130@gmail.com-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
