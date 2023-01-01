@@ -10,5 +10,12 @@
 <div align = "center">
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shk010130">
   <br><br>
-  ...🔥
+</div>
+
+## Blog
+
+<div align = "center">
+<a href="https://brilliantcse.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+</a>
 </div>
