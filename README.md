@@ -14,7 +14,7 @@
   
   `Java` `Kotlin`
   
-  `Spring` `Spring Boot`
+  `Spring` `Spring Boot` `JPA`
   
   `System` `Compiler`
   
