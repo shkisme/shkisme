@@ -16,8 +16,6 @@
   
   `Spring` `Spring Boot` `JPA`
   
-  `System` `Compiler`
-  
   `OOP` `Functional Programming` `TDD` `DDD`
   
 </div>
