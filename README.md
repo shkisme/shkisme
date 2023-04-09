@@ -1,14 +1,13 @@
-
-## Github
+## ⭐️ Github
 
 <div align = "center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shkisme&count_private=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkisme&layout=compact&theme=material-palenight&langs_count=6&private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shkisme&count_private=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkisme&layout=compact&theme=material-palenight&langs_count=6&private=true)](https://github.com/anuraghazra/github-readme-stats)
   
-  </div>
-  
-## Interested in...
+</div>
+
+## 💻 Interested in...
 
 <div align = "center">
   
@@ -18,12 +17,22 @@
   
   `OOP` `Functional Programming` `TDD` `DDD`
   
-</div>
+  `OS` `System` `Compiler`
   
-## BOJ rank
+</div>
+
+## 📝 Velog
 
 <div align = "center">
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=shkisme&color=dark)](https://velog.io/@shkisme) 
+
+</div>
+  
+## 🥇 BOJ rank
+
+<div align = "center">
+  
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shk010130">
-  <br><br>
-  🤔...
+  
 </div>
