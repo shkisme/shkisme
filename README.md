@@ -17,16 +17,6 @@
   
   `OOP` `Functional Programming` `TDD` `DDD`
   
-  `OS` `System` `Compiler`
-  
-</div>
-
-## 📝 Velog
-
-<div align = "center">
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=shkisme&color=dark)](https://velog.io/@shkisme) 
-
 </div>
   
 ## 🥇 BOJ rank
