@@ -3,7 +3,7 @@
 <div align = "center">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shkisme&count_private=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkisme&layout=compact&theme=material-palenight&langs_count=6&private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkisme&layout=compact&theme=material-palenight&langs_count=6&private=true&exclude_repo=shkisme.github.io)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
