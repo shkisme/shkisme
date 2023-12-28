@@ -18,11 +18,4 @@
   `OOP` `Functional Programming` `TDD` `DDD`
   
 </div>
-  
-## 🥇 BOJ rank
 
-<div align = "center">
-  
-  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shk010130">
-  
-</div>
