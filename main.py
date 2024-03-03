@@ -20,7 +20,7 @@ markdown_text = """
 markdown_text += """
 
 ## 📝 Latest Blog Post
-<table><tbody><tr>
+<table style="width: 100%; text-align: center;"><tbody><tr>
 """  # list of blog posts will be appended here
 
 MAX_POST = 5
@@ -44,10 +44,10 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         markdown_text += f"""
 <td>
     <a href="{link}">
-        <div>{title}</div>
+        <div style="font-weight: bold;">[{title}]</div>
     </a>
     {feed['summary']}
-    <div>{feed_date}</div>
+    <div style="font-style: italic;">{feed_date}</div>
 </td>
 """
         if idx == 2:
