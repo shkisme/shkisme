@@ -24,10 +24,15 @@ markdown_text += """
 """  # list of blog posts will be appended here
 
 MAX_POST = 6
+
+count = 0
+
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
         break
     else:
+        count++
+      
         feed_date = time.strftime('%Y/%m/%d', feed['published_parsed'])
         title = feed['title']
         link = feed['link']
@@ -44,7 +49,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         div_tag = soup.find('div')
         text_content = div_tag.get_text(separator=' ', strip=True)
         summary = text_content[:50] + "..." if len(text_content) > 50 else text_content
-
+      
         markdown_text += f"""
 <td>
     <a href="{link}">
@@ -55,6 +60,12 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     <div>{feed_date}</div>
 </td>
 """
+        if (count == 3):
+          markdown_text += """
+</tr>
+<tr>
+"""
+        
 
 markdown_text += "</tr></tbody></table>"
 f = open("README.md", mode="w", encoding="utf-8")
