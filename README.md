@@ -41,6 +41,9 @@
     <div>2024/02/27</div>
 </td>
 
+</tr>
+<tr>
+
 <td>
     <a href="https://shkisme.vercel.app/doore-redis">
         <img width="100%" src="https://og-image-korean.vercel.app/"/><br/>
@@ -49,9 +52,6 @@
     <div><div><img src="https://og-image-korean.vercel.app/" style="width: 100%;" /><div>두레 프로젝트에 Redis를 도입하게 된 배경과 그 과정을 기술했습니다.</div></div></div>
     <div>2024/02/22</div>
 </td>
-
-</tr>
-<tr>
 
 <td>
     <a href="https://shkisme.vercel.app/capstone-design-awards">
