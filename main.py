@@ -25,14 +25,10 @@ markdown_text += """
 
 MAX_POST = 6
 
-count = 0
-
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
         break
     else:
-        count += 1
-      
         feed_date = time.strftime('%Y/%m/%d', feed['published_parsed'])
         title = feed['title']
         link = feed['link']
@@ -60,7 +56,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     <div>{feed_date}</div>
 </td>
 """
-        if (count == 3):
+        if (idx == 3):
           markdown_text += """
 </tr>
 <tr>
