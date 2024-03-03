@@ -23,7 +23,7 @@ markdown_text += """
 <table><tbody><tr>
 """  # list of blog posts will be appended here
 
-MAX_POST = 6
+MAX_POST = 5
 
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
