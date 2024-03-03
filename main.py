@@ -17,14 +17,6 @@ markdown_text = """## 🐈‍⬛ GitHub
 
 markdown_text += """## 📝 Latest Blog Post
 
-<style>
-    table img {
-        width: 150px; /* 원하는 가로 크기 */
-        height: 100px; /* 원하는 세로 크기 */
-        object-fit: cover; /* 이미지를 부모 요소에 맞게 크롭 */
-    }
-</style>
-
 <table style="width: 100%; text-align: center;"><tbody><tr>
 """  # list of blog posts will be appended here
 
@@ -49,9 +41,9 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         desired_text = soup.find('div').find_next('div').text
         summary = desired_text[:50] + "..." if len(desired_text) > 50 else desired_text
       
-        markdown_text += f"""<td>
+        markdown_text += f"""<td style="width: 25%;">
     <a href="{link}">
-        <img src="{img_url}"/><br/>
+        <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="{img_url}"/><br/>
         <div align="center" style="font-weight: bold;">{title} <br/> ({feed_date})</div>
     </a>
     {summary}
