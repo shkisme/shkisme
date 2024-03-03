@@ -31,7 +31,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
         break
     else:
-        count++
+        count += 1
       
         feed_date = time.strftime('%Y/%m/%d', feed['published_parsed'])
         title = feed['title']
