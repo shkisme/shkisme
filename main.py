@@ -21,7 +21,7 @@ markdown_text += """
 
 """  # list of blog posts will be appended here
 
-MAX_POST = 5
+MAX_POST = 8
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
         break
