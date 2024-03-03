@@ -44,7 +44,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         markdown_text += f"""
 <td>
     <a href="{link}">
-        <div style="font-weight: bold;">[{title}]</div>
+        <div align="center" style="font-weight: bold;">[{title}]</div>
     </a>
     {feed['summary']}
     <div style="font-style: italic;">{feed_date}</div>
