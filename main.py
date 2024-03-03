@@ -41,13 +41,12 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         desired_text = soup.find('div').find_next('div').text
         summary = desired_text[:50] + "..." if len(desired_text) > 50 else desired_text
       
-        markdown_text += f"""<td>
+        markdown_text += f"""<td style="width: 25%;">
     <a href="{link}">
-        <img width="100%" src="{img_url}"/><br/>
+        <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="{img_url}"/><br/>
         <div align="center" style="font-weight: bold;">[{title}]</div>
     </a>
     {summary}
-    <div style="font-style: italic;">{feed_date}</div>
 </td>
 """
         if idx == 2:
