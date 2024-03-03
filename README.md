@@ -19,3 +19,6 @@
 [2024/02/22 - 두레 Redis 도입기](https://shkisme.vercel.app/doore-redis) <br/>
 [2024/02/16 - 캡스톤 디자인 경진대회 최우수상 수상!](https://shkisme.vercel.app/capstone-design-awards) <br/>
 [2024/02/15 - 코틀린 코드 컨벤션 정리](https://shkisme.vercel.app/kotlin-code-convention) <br/>
+[2024/02/05 - 생애 첫 기술 면접, 그리고 인턴 합격](https://shkisme.vercel.app/%EC%84%BC%EB%94%94-%EB%A9%B4%EC%A0%91-%ED%9B%84%EA%B8%B0) <br/>
+[2024/01/31 - 2024년 1월 회고](https://shkisme.vercel.app/2024-01-log) <br/>
+[2024/01/12 - 프로젝트 기술을 택할 때 주의해야 할 것](https://shkisme.vercel.app/choosing-project-technology) <br/>
