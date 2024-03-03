@@ -42,8 +42,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         image_url = img_tag['src']
 
         # div 태그 내부의 텍스트 추출하여 summary 설정
-        div_tag = soup.find('div').find('div')
-        text_content = div_tag.get_text(separator=' ', strip=True)
+        text_content = soup.find('div').find('div').get_text(separator=' ', strip=True)
         summary = text_content[:50] + "..." if len(text_content) > 50 else text_content
       
         markdown_text += f"""
