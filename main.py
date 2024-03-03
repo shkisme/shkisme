@@ -56,7 +56,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     <div>{feed_date}</div>
 </td>
 """
-        if (idx == 2):
+        if idx == 2:
           markdown_text += """
 </tr>
 <tr>
