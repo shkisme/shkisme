@@ -70,13 +70,4 @@
     <div><div><img src="https://og-image-korean.vercel.app/" style="width: 100%;" /><div>코틀린 공식문서에 나와있는 코드 컨벤션을 정리해봤습니다.</div></div></div>
     <div>2024/02/15</div>
 </td>
-
-<td>
-    <a href="https://shkisme.vercel.app/%EC%84%BC%EB%94%94-%EB%A9%B4%EC%A0%91-%ED%9B%84%EA%B8%B0">
-        <img width="100%" src="https://og-image-korean.vercel.app/"/><br/>
-        <div>생애 첫 기술 면접, 그리고 인턴 합격</div>
-    </a>
-    <div><div><img src="https://og-image-korean.vercel.app/" style="width: 100%;" /><div>생애 첫 기술면접을 스타트업 센디에서 보게 되었고, 합격한 후 후기를 작성했습니다.</div></div></div>
-    <div>2024/02/05</div>
-</td>
 </tr></tbody></table>
