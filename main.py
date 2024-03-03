@@ -37,21 +37,16 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         # BeautifulSoup을 사용하여 HTML 파싱
         soup = BeautifulSoup(description, 'html.parser')
 
-        # img 태그가 있는지 확인하고 img_url 설정
-        img_tag = soup.find('img')
-        image_url = img_tag['src']
-
         # div 태그 내부의 텍스트 추출하여 summary 설정
-        text_content = soup.find('div').find('div').get_text(separator=' ', strip=True)
+        text_content = soup.find('div').get_text(separator=' ', strip=True)
         summary = text_content[:50] + "..." if len(text_content) > 50 else text_content
       
         markdown_text += f"""
 <td>
     <a href="{link}">
-        <img width="100%" src="{image_url}"/><br/>
         <div>{title}</div>
     </a>
-    <div>{feed['summary']}</div>
+    {feed['summary']}
     <div>{feed_date}</div>
 </td>
 """
