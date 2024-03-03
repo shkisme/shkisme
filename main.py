@@ -4,9 +4,7 @@ from bs4 import BeautifulSoup
 URL="https://rss.app/feeds/Pdrvizv67oA5fYy9.xml" 
 RSS_FEED = feedparser.parse(URL)
 
-markdown_text = """
-
-## 🐈‍⬛ GitHub
+markdown_text = """## 🐈‍⬛ GitHub
 
 <div align = "center">
   
@@ -17,9 +15,8 @@ markdown_text = """
 
 """
 
-markdown_text += """
+markdown_text += """## 📝 Latest Blog Post
 
-## 📝 Latest Blog Post
 <table style="width: 100%; text-align: center;"><tbody><tr>
 """  # list of blog posts will be appended here
 
@@ -37,22 +34,24 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         # BeautifulSoup을 사용하여 HTML 파싱
         soup = BeautifulSoup(description, 'html.parser')
 
+        img_tag = soup.find('img')
+        img_url = img_tag['src'] if img_tag['src'] != 'https://og-image-korean.vercel.app/' else './myBlog.png'
+
         # div 태그 내부의 텍스트 추출하여 summary 설정
-        text_content = soup.find('div').get_text(separator=' ', strip=True)
-        summary = text_content[:50] + "..." if len(text_content) > 50 else text_content
+        desired_text = soup.find('div').find_next('div').text
+        summary = desired_text[:50] + "..." if len(desired_text) > 50 else desired_text
       
-        markdown_text += f"""
-<td>
+        markdown_text += f"""<td>
     <a href="{link}">
+        <img width="100%" src="{img_url}"/><br/>
         <div align="center" style="font-weight: bold;">[{title}]</div>
     </a>
-    {feed['summary']}
+    {summary}
     <div style="font-style: italic;">{feed_date}</div>
 </td>
 """
         if idx == 2:
-          markdown_text += """
-</tr>
+          markdown_text += """</tr>
 <tr>
 """
         
