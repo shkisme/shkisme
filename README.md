@@ -11,7 +11,7 @@
 <table style="width: 100%; text-align: center;"><tbody><tr>
 <td style="width: 25%;">
     <a href="https://shkisme.vercel.app/BDDictionary">
-        <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="./myBlog.png"/><br/>
+        <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fb3f19c7d-afbd-41bb-a565-6804c04eb34f%2Fc90f08a3-605b-4b12-8967-ac58baf10a6d%2FUntitled.png?table=block&id=b6716784-b9f5-4602-af74-a049ed2acaca&cache=v2"/><br/>
         <div align="center" style="font-weight: bold;">BDD 세미나 기술 발표 후기 <br/> (2024/03/05)</div>
     </a>
     BDD 첫 세미나에서 내가 만들어 본 객체 지향 소프트웨어를 주제로 기술 발표를 하였습니다...
