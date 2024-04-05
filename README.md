@@ -34,7 +34,7 @@
 <tr>
 <td style="width: 25%;">
     <a href="https://shkisme.vercel.app/2024-02-log">
-        <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="https://shkisme.vercel.app/undefined"/><br/>
+        <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="./myBlog.png"/><br/>
         <div align="center" style="font-weight: bold;">2024년 2월, 그리고 겨울방학 회고 <br/> (2024/02/29)</div>
     </a>
     2024년 2월과 겨울방학 회고입니다.
@@ -48,7 +48,7 @@
 </td>
 <td style="width: 25%;">
     <a href="https://shkisme.vercel.app/doore-redis">
-        <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="https://shkisme.vercel.app/undefined"/><br/>
+        <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="./myBlog.png"/><br/>
         <div align="center" style="font-weight: bold;">두레 Redis 도입기 <br/> (2024/02/22)</div>
     </a>
     두레 프로젝트에 Redis를 도입하게 된 배경과 그 과정을 기술했습니다.
