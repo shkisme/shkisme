@@ -34,7 +34,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         soup = BeautifulSoup(description, 'html.parser')
 
         img_tag = soup.find('img')
-        img_url = img_tag['src'] if img_tag['src'] != 'undefined' else './myBlog.png'
+        img_url = img_tag['src'] if img_tag['src'] != 'https://shkisme.vercel.app/undefined' else './myBlog.png'
 
         # div 태그 내부의 텍스트 추출하여 summary 설정
         desired_text = soup.find('div').find_next('div').text
