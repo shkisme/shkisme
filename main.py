@@ -1,7 +1,7 @@
 import feedparser, time
 from bs4 import BeautifulSoup
 
-URL="https://rss.app/feeds/Pdrvizv67oA5fYy9.xml" 
+URL="https://shkisme.vercel.app/rss.xml"
 RSS_FEED = feedparser.parse(URL)
 
 markdown_text = """## 🐈‍⬛ GitHub
