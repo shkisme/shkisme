@@ -10,6 +10,13 @@
 
 <table style="width: 100%; text-align: center;"><tbody><tr>
 <td style="width: 25%;">
+    <a href="https://shkisme.vercel.app/2024-03-log">
+        <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="./myBlog.png"/><br/>
+        <div align="center" style="font-weight: bold;">2024년 3월 회고 <br/> (2024/03/31)</div>
+    </a>
+    2024년 3월 회고입니다.
+</td>
+<td style="width: 25%;">
     <a href="https://shkisme.vercel.app/growing-up-together">
         <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fb3f19c7d-afbd-41bb-a565-6804c04eb34f%2F9921d757-61ae-4d98-ab5d-c17d54296cc9%2F%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2024-03-27_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_9.26.21.png?table=block&id=c1a9676f-11dc-42b3-905e-1623f6d4c99a&cache=v2"/><br/>
         <div align="center" style="font-weight: bold;">함께 자라기 <br/> (2024/03/27)</div>
@@ -17,9 +24,18 @@
     회사에서 “함께 자라기” 책을 읽고 세미나를 진행했습니다. 책과 세미나에 대한 전반적인 내...
 </td>
 <td style="width: 25%;">
+    <a href="https://shkisme.vercel.app/rest-rpc">
+        <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="./myBlog.png"/><br/>
+        <div align="center" style="font-weight: bold;">Rest vs RPC <br/> (2024/03/19)</div>
+    </a>
+    Rest 통신과 RPC 통신의 차이점을 비교해봤습니다.
+</td>
+</tr>
+<tr>
+<td style="width: 25%;">
     <a href="https://shkisme.vercel.app/BDDictionary">
         <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fb3f19c7d-afbd-41bb-a565-6804c04eb34f%2Fc90f08a3-605b-4b12-8967-ac58baf10a6d%2FUntitled.png?table=block&id=b6716784-b9f5-4602-af74-a049ed2acaca&cache=v2"/><br/>
-        <div align="center" style="font-weight: bold;">BDD 세미나 기술 발표 후기 - BDDictionary <br/> (2024/03/05)</div>
+        <div align="center" style="font-weight: bold;">BDD 세미나 기술 발표 - BDDictionary <br/> (2024/03/05)</div>
     </a>
     BDD 첫 세미나에서 내가 만들어 본 객체 지향 소프트웨어를 주제로 기술 발표를 하였습니다...
 </td>
@@ -30,27 +46,11 @@
     </a>
     블로그 렌더링 오픈소스 morethan-log에 기여해보았습니다.
 </td>
-</tr>
-<tr>
 <td style="width: 25%;">
     <a href="https://shkisme.vercel.app/2024-02-log">
         <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="./myBlog.png"/><br/>
         <div align="center" style="font-weight: bold;">2024년 2월, 그리고 겨울방학 회고 <br/> (2024/02/29)</div>
     </a>
     2024년 2월과 겨울방학 회고입니다.
-</td>
-<td style="width: 25%;">
-    <a href="https://shkisme.vercel.app/wash-car-new-car-part-time-job">
-        <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fb3f19c7d-afbd-41bb-a565-6804c04eb34f%2Fc33db3d5-453c-4b19-b2c1-2fb5da65ee8d%2FUntitled.png?table=block&id=8b889b6c-bcf3-4f28-864a-e7bed6d3e179&cache=v2"/><br/>
-        <div align="center" style="font-weight: bold;">스타트업 세차새차 백엔드 단기 아르바이트 후기 <br/> (2024/02/27)</div>
-    </a>
-    세차장 예약 플랫폼, 세차새차에서 단기 아르바이트로 근무하며 개발했던 일지와 후기를 작성했...
-</td>
-<td style="width: 25%;">
-    <a href="https://shkisme.vercel.app/doore-redis">
-        <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="./myBlog.png"/><br/>
-        <div align="center" style="font-weight: bold;">두레 Redis 도입기 <br/> (2024/02/22)</div>
-    </a>
-    두레 프로젝트에 Redis를 도입하게 된 배경과 그 과정을 기술했습니다.
 </td>
 </tr></tbody></table>
