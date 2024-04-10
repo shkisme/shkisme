@@ -10,6 +10,13 @@
 
 <table style="width: 100%; text-align: center;"><tbody><tr>
 <td style="width: 25%;">
+    <a href="https://shkisme.vercel.app/json-seminar">
+        <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="./myBlog.png"/><br/>
+        <div align="center" style="font-weight: bold;">부경대 WAP 특강 후기 <br/> (2024/04/10)</div>
+    </a>
+    부경대 WAP 동아리에서 초청한 우아한형제들 테크코스교육개발실 클라이언트교육팀 박재성님 특...
+</td>
+<td style="width: 25%;">
     <a href="https://shkisme.vercel.app/2024-03-log">
         <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="./myBlog.png"/><br/>
         <div align="center" style="font-weight: bold;">2024년 3월 회고 <br/> (2024/03/31)</div>
@@ -23,6 +30,8 @@
     </a>
     회사에서 “함께 자라기” 책을 읽고 세미나를 진행했습니다. 책과 세미나에 대한 전반적인 내...
 </td>
+</tr>
+<tr>
 <td style="width: 25%;">
     <a href="https://shkisme.vercel.app/rest-rpc">
         <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="./myBlog.png"/><br/>
@@ -30,8 +39,6 @@
     </a>
     Rest 통신과 RPC 통신의 차이점을 비교해봤습니다.
 </td>
-</tr>
-<tr>
 <td style="width: 25%;">
     <a href="https://shkisme.vercel.app/BDDictionary">
         <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fb3f19c7d-afbd-41bb-a565-6804c04eb34f%2Fc90f08a3-605b-4b12-8967-ac58baf10a6d%2FUntitled.png?table=block&id=b6716784-b9f5-4602-af74-a049ed2acaca&cache=v2"/><br/>
@@ -45,12 +52,5 @@
         <div align="center" style="font-weight: bold;">첫 오픈소스 기여! <br/> (2024/03/02)</div>
     </a>
     블로그 렌더링 오픈소스 morethan-log에 기여해보았습니다.
-</td>
-<td style="width: 25%;">
-    <a href="https://shkisme.vercel.app/2024-02-log">
-        <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="./myBlog.png"/><br/>
-        <div align="center" style="font-weight: bold;">2024년 2월, 그리고 겨울방학 회고 <br/> (2024/02/29)</div>
-    </a>
-    2024년 2월과 겨울방학 회고입니다.
 </td>
 </tr></tbody></table>
