@@ -4,7 +4,12 @@ from bs4 import BeautifulSoup
 URL="https://shkisme.vercel.app/rss.xml"
 RSS_FEED = feedparser.parse(URL)
 
-markdown_text = """## 🐈‍⬛ GitHub
+markdown_text = """
+<a href="https://github.com/shkisme/gitanimals">
+  <img src="https://render.gitanimals.org/lines/shkisme?pet-id=855" width="1000" height="120"/>
+</a>
+
+## 🐈‍⬛ GitHub
 
 <div align = "center">
   
