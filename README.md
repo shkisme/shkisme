@@ -15,9 +15,16 @@
 
 <table style="width: 100%; text-align: center;"><tbody><tr>
 <td style="width: 25%;">
+    <a href="https://shkisme.vercel.app/grpc-port-mapping-troubleshooting">
+        <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="./myBlog.png"/><br/>
+        <div align="center" style="font-weight: bold;">gRPC 스프링 서버 배포 트러블슈팅 <br/> (2024/04/24)</div>
+    </a>
+    gRPC 스프링 서버와 envoy proxy 서버를 배포하며 겪었던 트러블슈팅을 정리해봤습...
+</td>
+<td style="width: 25%;">
     <a href="https://shkisme.vercel.app/aws-ecs-cicd">
         <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="./myBlog.png"/><br/>
-        <div align="center" style="font-weight: bold;">AWS ECS 무중단 CI/CD 환경 구축하기 <br/> (2024/04/21)</div>
+        <div align="center" style="font-weight: bold;">AWS ECS 무중단 CI/CD 환경 구축하기 <br/> (2024/04/23)</div>
     </a>
     AWS ECS에 서비스를 배포하는 과정을 자동화한 CICD를 구축해보았습니다.
 </td>
@@ -28,6 +35,8 @@
     </a>
     깃허브 리드미에 개인 블로그의 최신 글을 띄워주도록 설정해보았습니다.
 </td>
+</tr>
+<tr>
 <td style="width: 25%;">
     <a href="https://shkisme.vercel.app/json-seminar">
         <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="./myBlog.png"/><br/>
@@ -35,8 +44,6 @@
     </a>
     부경대 WAP 동아리에서 초청한 우아한형제들 테크코스교육개발실 클라이언트교육팀 박재성님 특...
 </td>
-</tr>
-<tr>
 <td style="width: 25%;">
     <a href="https://shkisme.vercel.app/2024-03-log">
         <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="./myBlog.png"/><br/>
@@ -49,13 +56,6 @@
         <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fb3f19c7d-afbd-41bb-a565-6804c04eb34f%2F9921d757-61ae-4d98-ab5d-c17d54296cc9%2F%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2024-03-27_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_9.26.21.png?table=block&id=c1a9676f-11dc-42b3-905e-1623f6d4c99a&cache=v2"/><br/>
         <div align="center" style="font-weight: bold;">함께 자라기 <br/> (2024/03/27)</div>
     </a>
-    회사에서 “함께 자라기” 책을 읽고 세미나를 진행했습니다. 책과 세미나에 대한 전반적인 내...
-</td>
-<td style="width: 25%;">
-    <a href="https://shkisme.vercel.app/rest-rpc">
-        <img style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="./myBlog.png"/><br/>
-        <div align="center" style="font-weight: bold;">Rest vs RPC <br/> (2024/03/19)</div>
-    </a>
-    Rest 통신과 RPC 통신의 차이점을 비교해봤습니다.
+    “함께 자라기” 책을 읽고 세미나를 진행했습니다. 책과 세미나에 대한 전반적인 내용과 제 ...
 </td>
 </tr></tbody></table>
