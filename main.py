@@ -19,9 +19,15 @@ markdown_text = """
 
 """
 
-markdown_text += """## 📝 Latest Blog Post
+markdown_text += """## 📝 Latest Blog Posts
 
-<table style="width: 100%; text-align: center;"><tbody><tr>
+<table border="1" style="width: 100%; text-align: center;"><thead>
+<tr>
+    <th>Title</th>
+    <th>Date</th>
+    <th>Description</th>
+</tr>
+</thead><tbody>
 """  # list of blog posts will be appended here
 
 MAX_POST = 5
@@ -41,19 +47,17 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     # div 태그 내부의 텍스트 추출하여 summary 설정
     summary = soup.find('div').find_next('div').text
   
-    markdown_text += f"""<td style="width: 25%;">
-        <a href="{link}">
-            <div align="center" style="font-weight: bold; margin-bottom: 10px;">{title} <br/> ({feed_date})</div>
-        </a>
-        <div style="text-align: left;">{summary}</div>
-    </td>
+    markdown_text += f"""<tr>
+        <td style="width: 33%; padding: 10px;">
+            <a href="{link}">{title}</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">{feed_date}</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">{summary}</td>
+    </tr>
     """
-    if (idx + 1) % 3 == 0 and idx != 0:
-        markdown_text += """</tr><tr>"""
 
-markdown_text += "</tr></tbody></table>"
+markdown_text += "</tbody></table>"
 
-markdown_text += "</tr></tbody></table>"
 f = open("README.md", mode="w", encoding="utf-8")
 f.write(markdown_text)
 f.close()
