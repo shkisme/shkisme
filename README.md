@@ -13,7 +13,7 @@
 
 ## 📝 Latest Blog Posts
 
-<table border="1" style="width: 100%; text-align: center;"><thead>
+<table style="width: 100%; text-align: center;"><thead>
 <tr>
     <th>Title</th>
     <th>Date</th>
