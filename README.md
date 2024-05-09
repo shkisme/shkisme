@@ -22,6 +22,13 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/2024-04-log">2024년 4월 회고</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/05/09</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">2024년 4월 회고입니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
             <a href="https://shkisme.vercel.app/hexagon-developer">육각형 개발자</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/04/26</td>
@@ -47,12 +54,5 @@
         </td>
         <td style="width: 33%; padding: 10px;">2024/04/11</td>
         <td style="width: 33%; padding: 10px; text-align: left;">깃허브 리드미에 개인 블로그의 최신 글을 띄워주도록 설정해보았습니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/json-seminar">부경대 WAP 특강을 다녀오고</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/04/09</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">부경대 WAP 동아리에서 초청한 우아한형제들 테크코스교육개발실 클라이언트교육팀 박재성님 특강 내용 정리입니다.</td>
     </tr>
     </tbody></table>
