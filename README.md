@@ -22,6 +22,20 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/ElasticSearch-Juso-Search-2">ElasticSearch를 활용한 주소 검색 시스템 개발기 (2)</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/05/19</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">ElasticSearch를 활용한 주소 검색 시스템 개발 과정 중 검색 정확도 개선에 대해 작성해보았습니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/ElasticSearch-Juso-Search-1">ElasticSearch를 활용한 주소 검색 시스템 개발기 (1)</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/05/18</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">ElasticSearch를 활용한 주소 검색 시스템 개발 과정 중 마주한 데이터와 스프링배치, 인프라에 대해 작성해보았습니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
             <a href="https://shkisme.vercel.app/2024-04-log">2024년 4월 회고</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/05/09</td>
@@ -40,19 +54,5 @@
         </td>
         <td style="width: 33%; padding: 10px;">2024/04/24</td>
         <td style="width: 33%; padding: 10px; text-align: left;">gRPC 스프링 서버와 envoy proxy 서버를 배포하며 겪었던 트러블슈팅을 정리해봤습니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/aws-ecs-cicd">AWS ECS 무중단 CI/CD 환경 구축하기</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/04/23</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">AWS ECS에 서비스를 배포하는 과정을 자동화한 CICD를 구축해보았습니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/github-latest-post">깃허브 리드미에 최신 글 띄워주기</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/04/11</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">깃허브 리드미에 개인 블로그의 최신 글을 띄워주도록 설정해보았습니다.</td>
     </tr>
     </tbody></table>
