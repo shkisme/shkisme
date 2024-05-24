@@ -22,6 +22,13 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/drive">DRIVE</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/05/25</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">창조적인 사람들을 움직이는 자발적 동기부여의 힘, “드라이브” 세미나 내용과 생각들을 정리했습니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
             <a href="https://shkisme.vercel.app/ElasticSearch-Juso-Search-2">ElasticSearch를 활용한 주소 검색 시스템 개발기 (2)</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/05/19</td>
@@ -32,13 +39,13 @@
             <a href="https://shkisme.vercel.app/ElasticSearch-Juso-Search-1">ElasticSearch를 활용한 주소 검색 시스템 개발기 (1)</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/05/18</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">ElasticSearch를 활용한 주소 검색 시스템 개발 과정 중 마주한 데이터와 스프링배치, 인프라에 대해 작성해보았습니다.</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">ElasticSearch를 활용한 주소 검색 시스템 개발 과정 중 마주한 주소 데이터와 스프링배치, 인프라에 대해 작성해보았습니다.</td>
     </tr>
     <tr>
         <td style="width: 33%; padding: 10px;">
             <a href="https://shkisme.vercel.app/2024-04-log">2024년 4월 회고</a>
         </td>
-        <td style="width: 33%; padding: 10px;">2024/05/09</td>
+        <td style="width: 33%; padding: 10px;">2024/04/30</td>
         <td style="width: 33%; padding: 10px; text-align: left;">2024년 4월 회고입니다.</td>
     </tr>
     <tr>
@@ -47,12 +54,5 @@
         </td>
         <td style="width: 33%; padding: 10px;">2024/04/26</td>
         <td style="width: 33%; padding: 10px; text-align: left;">육각형 개발자 책을 읽고 세미나를 진행했습니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/grpc-port-mapping-troubleshooting">gRPC 스프링 서버 배포 트러블슈팅</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/04/24</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">gRPC 스프링 서버와 envoy proxy 서버를 배포하며 겪었던 트러블슈팅을 정리해봤습니다.</td>
     </tr>
     </tbody></table>
