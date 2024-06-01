@@ -22,6 +22,13 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/washcar-bizcall-websocket">비즈콜 예약 전화 웹소켓 통신 구현</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/06/01</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">세차장 예약 전화가 왔을 때 실시간으로 사장님의 패드에 고객 정보를 띄워주는 과제를 진행했습니다. WebSocket, STOMP, RabbitMQ를 사용하여 문제를 해결했습니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
             <a href="https://shkisme.vercel.app/2024-05-log">2024년 5월 회고</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/05/31</td>
@@ -47,12 +54,5 @@
         </td>
         <td style="width: 33%; padding: 10px;">2024/05/18</td>
         <td style="width: 33%; padding: 10px; text-align: left;">ElasticSearch를 활용한 주소 검색 시스템 개발 과정 중 마주한 주소 데이터와 스프링배치, 인프라에 대해 작성해보았습니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/2024-04-log">2024년 4월 회고</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/04/30</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">2024년 4월 회고입니다.</td>
     </tr>
     </tbody></table>
