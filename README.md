@@ -22,9 +22,16 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/2024-05-log">2024년 5월 회고</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/05/31</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">2024년 5월 회고입니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
             <a href="https://shkisme.vercel.app/drive">DRIVE</a>
         </td>
-        <td style="width: 33%; padding: 10px;">2024/05/25</td>
+        <td style="width: 33%; padding: 10px;">2024/05/24</td>
         <td style="width: 33%; padding: 10px; text-align: left;">창조적인 사람들을 움직이는 자발적 동기부여의 힘, “드라이브” 세미나 내용과 생각들을 정리했습니다.</td>
     </tr>
     <tr>
@@ -47,12 +54,5 @@
         </td>
         <td style="width: 33%; padding: 10px;">2024/04/30</td>
         <td style="width: 33%; padding: 10px; text-align: left;">2024년 4월 회고입니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/hexagon-developer">육각형 개발자</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/04/26</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">육각형 개발자 책을 읽고 세미나를 진행했습니다.</td>
     </tr>
     </tbody></table>
