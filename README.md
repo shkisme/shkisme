@@ -22,6 +22,13 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/ElasticSearch-Juso-Search-3">ElasticSearch를 활용한 주소 검색 시스템 개발기 (3)</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/06/06</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">ElasticSearch를 활용한 주소 검색 시스템 개발 과정 중, 사용자 사전과 캐릭터필터를 사용하여 검색 퀄리티를 높인 과정에 대해 작성했습니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
             <a href="https://shkisme.vercel.app/washcar-bizcall-websocket">비즈콜 예약 전화 웹소켓 통신 구현</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/06/01</td>
@@ -46,13 +53,6 @@
             <a href="https://shkisme.vercel.app/ElasticSearch-Juso-Search-2">ElasticSearch를 활용한 주소 검색 시스템 개발기 (2)</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/05/19</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">ElasticSearch를 활용한 주소 검색 시스템 개발 과정 중 검색 정확도 개선에 대해 작성해보았습니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/ElasticSearch-Juso-Search-1">ElasticSearch를 활용한 주소 검색 시스템 개발기 (1)</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/05/18</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">ElasticSearch를 활용한 주소 검색 시스템 개발 과정 중 마주한 주소 데이터와 스프링배치, 인프라에 대해 작성해보았습니다.</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">ElasticSearch를 활용한 주소 검색 시스템 개발 과정 중 검색 정확도 개선에 대해 작성했습니다.</td>
     </tr>
     </tbody></table>
