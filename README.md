@@ -25,7 +25,7 @@
             <a href="https://shkisme.vercel.app/ElasticSearch-Juso-Search-3">ElasticSearch를 활용한 주소 검색 시스템 개발기 (3)</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/06/06</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">ElasticSearch를 활용한 주소 검색 시스템 개발 과정 중, 사용자 사전과 캐릭터필터를 사용하여 검색 퀄리티를 높인 과정에 대해 작성했습니다.</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">사용자 사전과 캐릭터필터를 사용하여 주소 검색 퀄리티를 높인 과정에 대해 작성했습니다.</td>
     </tr>
     <tr>
         <td style="width: 33%; padding: 10px;">
@@ -53,6 +53,6 @@
             <a href="https://shkisme.vercel.app/ElasticSearch-Juso-Search-2">ElasticSearch를 활용한 주소 검색 시스템 개발기 (2)</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/05/19</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">ElasticSearch를 활용한 주소 검색 시스템 개발 과정 중 검색 정확도 개선에 대해 작성했습니다.</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">ElasticSearch를 활용한 주소 검색 기능 개발 과정에 대해 작성했습니다.</td>
     </tr>
     </tbody></table>
