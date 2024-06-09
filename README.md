@@ -22,6 +22,13 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/blog-retrospect">개발 블로그 운영 회고록</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/06/09</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">약 1년 3개월 동안의 개발 블로그 운영을 회고해봤습니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
             <a href="https://shkisme.vercel.app/ElasticSearch-Juso-Search-3">ElasticSearch를 활용한 주소 검색 시스템 개발기 (3)</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/06/06</td>
@@ -47,12 +54,5 @@
         </td>
         <td style="width: 33%; padding: 10px;">2024/05/24</td>
         <td style="width: 33%; padding: 10px; text-align: left;">창조적인 사람들을 움직이는 자발적 동기부여의 힘, “드라이브” 세미나 내용과 생각들을 정리했습니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/ElasticSearch-Juso-Search-2">ElasticSearch를 활용한 주소 검색 시스템 개발기 (2)</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/05/19</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">ElasticSearch를 활용한 주소 검색 기능 개발 과정에 대해 작성했습니다.</td>
     </tr>
     </tbody></table>
