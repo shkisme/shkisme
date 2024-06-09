@@ -25,7 +25,7 @@
             <a href="https://shkisme.vercel.app/blog-retrospect">개발 블로그 운영 회고록</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/06/09</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">약 1년 3개월 동안의 개발 블로그 운영을 회고해봤습니다.</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">약 1년 2개월 동안의 개발 블로그 운영 과정을 회고해봤습니다.</td>
     </tr>
     <tr>
         <td style="width: 33%; padding: 10px;">
