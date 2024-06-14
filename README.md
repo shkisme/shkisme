@@ -22,10 +22,17 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/ElasticSearch-Juso-Search-4">ElasticSearch를 활용한 주소 검색 시스템 개발기 (4)</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/06/14</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">주소 검색 결과를 클라이언트의 위치 기준으로 가까운 순으로 정렬하여 보여주는 기능을 구현했습니다. 또, 프로덕션 릴리즈를 위한 준비 작업을 했습니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
             <a href="https://shkisme.vercel.app/blog-retrospect">개발 블로그 운영 회고록</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/06/09</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">약 1년 2개월 동안의 개발 블로그 운영 과정을 회고해봤습니다.</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">약 1년 2개월 동안의 개발 블로그 운영 과정 회고입니다.</td>
     </tr>
     <tr>
         <td style="width: 33%; padding: 10px;">
@@ -47,12 +54,5 @@
         </td>
         <td style="width: 33%; padding: 10px;">2024/05/31</td>
         <td style="width: 33%; padding: 10px; text-align: left;">2024년 5월 회고입니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/drive">DRIVE</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/05/24</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">창조적인 사람들을 움직이는 자발적 동기부여의 힘, “드라이브” 세미나 내용과 생각들을 정리했습니다.</td>
     </tr>
     </tbody></table>
