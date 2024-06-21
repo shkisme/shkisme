@@ -22,6 +22,13 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/Sendy-Juso-Retrospect">센디 주소 검색 시스템 릴리즈 🎉</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/06/21</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">센디의 자체 주소 검색 시스템을 구축했고, 릴리즈했습니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
             <a href="https://shkisme.vercel.app/ElasticSearch-Juso-Search-4">ElasticSearch를 활용한 주소 검색 시스템 개발기 (4)</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/06/14</td>
@@ -29,7 +36,7 @@
     </tr>
     <tr>
         <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/blog-retrospect">개발 블로그 운영 회고록</a>
+            <a href="https://shkisme.vercel.app/blog-retrospect">개발 블로그 운영 회고</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/06/09</td>
         <td style="width: 33%; padding: 10px; text-align: left;">약 1년 2개월 동안의 개발 블로그 운영 과정 회고입니다.</td>
@@ -47,12 +54,5 @@
         </td>
         <td style="width: 33%; padding: 10px;">2024/06/01</td>
         <td style="width: 33%; padding: 10px; text-align: left;">세차장 예약 전화가 왔을 때 실시간으로 사장님의 패드에 고객 정보를 띄워주는 과제를 진행했습니다. WebSocket, STOMP, RabbitMQ를 사용하여 문제를 해결했습니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/2024-05-log">2024년 5월 회고</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/05/31</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">2024년 5월 회고입니다.</td>
     </tr>
     </tbody></table>
