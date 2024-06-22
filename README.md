@@ -11,7 +11,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=shkisme&theme=shades-of-purple&card_width=350)](https://git.io/streak-stats)  
 </div>
 
-## 📝 Latest Blog Posts
+## 📝 [Latest Blog Posts](https://shkisme.vercel.app/)
 
 <table style="width: 100%; text-align: center;"><thead>
 <tr>
