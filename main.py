@@ -19,7 +19,7 @@ markdown_text = """
 
 """
 
-markdown_text += """## 📝 Latest Blog Posts
+markdown_text += """## 📝 [Latest Blog Posts](https://shkisme.vercel.app/)
 
 <table style="width: 100%; text-align: center;"><thead>
 <tr>
