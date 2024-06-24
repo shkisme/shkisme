@@ -22,7 +22,7 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/Sendy-Juso-Retrospect">센디 주소 검색 시스템 릴리즈 🎉</a>
+            <a href="https://shkisme.vercel.app/Sendy-Juso-Retrospect">센디 자체 주소 검색 시스템 릴리즈 🎉</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/06/21</td>
         <td style="width: 33%; padding: 10px; text-align: left;">센디의 자체 주소 검색 시스템을 구축했고, 릴리즈했습니다.</td>
