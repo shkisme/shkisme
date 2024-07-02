@@ -22,6 +22,13 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/2024-06-log">2024년 6월 회고</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/06/30</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">2024년 6월 회고입니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
             <a href="https://shkisme.vercel.app/Sendy-Juso-Retrospect">센디 자체 주소 검색 시스템 릴리즈 🎉</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/06/21</td>
@@ -47,12 +54,5 @@
         </td>
         <td style="width: 33%; padding: 10px;">2024/06/06</td>
         <td style="width: 33%; padding: 10px; text-align: left;">사용자 사전과 캐릭터필터를 사용하여 주소 검색 퀄리티를 높인 과정에 대해 작성했습니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/washcar-bizcall-websocket">비즈콜 예약 전화 웹소켓 통신 구현</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/06/01</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">세차장 예약 전화가 왔을 때 실시간으로 사장님의 패드에 고객 정보를 띄워주는 과제를 진행했습니다. WebSocket, STOMP, RabbitMQ를 사용하여 문제를 해결했습니다.</td>
     </tr>
     </tbody></table>
