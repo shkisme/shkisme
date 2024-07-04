@@ -22,6 +22,13 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/product-management-skill">프로덕트 매니지먼트의 기술</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/07/04</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">‘프로덕트 매니지먼트의 기술’ 세미나 내용을 정리했습니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
             <a href="https://shkisme.vercel.app/2024-06-log">2024년 6월 회고</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/06/30</td>
@@ -47,12 +54,5 @@
         </td>
         <td style="width: 33%; padding: 10px;">2024/06/09</td>
         <td style="width: 33%; padding: 10px; text-align: left;">약 1년 2개월 동안의 개발 블로그 운영 과정 회고입니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/ElasticSearch-Juso-Search-3">ElasticSearch를 활용한 주소 검색 시스템 개발기 (3)</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/06/06</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">사용자 사전과 캐릭터필터를 사용하여 주소 검색 퀄리티를 높인 과정에 대해 작성했습니다.</td>
     </tr>
     </tbody></table>
