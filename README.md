@@ -22,6 +22,13 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/2024-07-log">2024년 7월 회고</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/07/31</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">2024년 7월 회고입니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
             <a href="https://shkisme.vercel.app/ElasticSearch-Juso-Search-5">ElasticSearch를 활용한 주소 검색 시스템 개발기 (5)</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/07/25</td>
@@ -47,12 +54,5 @@
         </td>
         <td style="width: 33%; padding: 10px;">2024/06/21</td>
         <td style="width: 33%; padding: 10px; text-align: left;">센디의 자체 주소 검색 시스템을 구축했고, 릴리즈했습니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/ElasticSearch-Juso-Search-4">ElasticSearch를 활용한 주소 검색 시스템 개발기 (4)</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/06/14</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">주소 검색 결과를 클라이언트의 위치 기준으로 가까운 순으로 정렬하여 보여주는 기능을 구현했습니다.</td>
     </tr>
     </tbody></table>
