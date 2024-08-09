@@ -32,7 +32,7 @@
             <a href="https://shkisme.vercel.app/ElasticSearch-Juso-Search-5">ElasticSearch를 활용한 주소 검색 시스템 개발기 (5)</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/07/25</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">구주소를 검색했을시 신주소와 함께 검색 결과를 보여주도록 개선했습니다.</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">주소 업데이트 배치 작업과 구주소를 검색했을시 신주소와 함께 검색 결과를 보여주도록 개선했습니다.</td>
     </tr>
     <tr>
         <td style="width: 33%; padding: 10px;">
