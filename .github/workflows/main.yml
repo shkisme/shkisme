@@ -3,7 +3,10 @@
 
 name: Latest Blog Post Application
 
-on: workflow_dispatch
+on:
+  workflow_dispatch: # 수동 트리거
+  schedule: 
+    - cron: "0 0 * * *" # 매일 자정 (UTC) 트리거
 
 jobs:
   build:
