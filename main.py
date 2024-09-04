@@ -9,8 +9,6 @@ markdown_text = """
   <img src="https://render.gitanimals.org/lines/shkisme?pet-id=855" width="1000" height="120"/>
 </a>
 
-## 🐈‍⬛ GitHub
-
 <div align = "center">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shkisme&rank_icon=github&include_all_commits=true&count_private=true&show_icons=true&theme=shades-of-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats) 
