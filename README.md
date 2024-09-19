@@ -20,6 +20,13 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/daangn-intern-interview">당근 인턴 서류 합격 및 면접 후기</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/09/19</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">당근 2024 썸머테크 인턴십 서류 합격 및 최종 면접 후기를 작성했습니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
             <a href="https://shkisme.vercel.app/sendy-intern-retrospect">센디 인턴 회고</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/09/01</td>
@@ -45,12 +52,5 @@
         </td>
         <td style="width: 33%; padding: 10px;">2024/06/30</td>
         <td style="width: 33%; padding: 10px; text-align: left;">2024년 6월 회고입니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/Sendy-Juso-Retrospect">센디 자체 주소 검색 시스템 릴리즈 🎉</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/06/21</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">센디의 자체 주소 검색 시스템을 구축했고, 릴리즈했습니다.</td>
     </tr>
     </tbody></table>
