@@ -20,6 +20,20 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/array">배열</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/09/21</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">배열 자료구조에 대해 정리했습니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/Time-Space-Complexity">시간 복잡도와 공간 복잡도</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/09/20</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">시간 복잡도와 공간 복잡도에 대해 정리했습니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
             <a href="https://shkisme.vercel.app/daangn-intern-interview">당근 인턴 서류 합격 및 면접 후기</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/09/19</td>
@@ -38,19 +52,5 @@
         </td>
         <td style="width: 33%; padding: 10px;">2024/07/25</td>
         <td style="width: 33%; padding: 10px; text-align: left;">주소 업데이트 배치 작업을 진행했고 구주소를 검색했을시 신주소와 함께 검색 결과를 보여주도록 개선했습니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/product-management-skill">프로덕트 매니지먼트의 기술</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/07/04</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">‘프로덕트 매니지먼트의 기술’ 세미나 내용을 정리했습니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/2024-06-log">2024년 6월 회고</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/06/30</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">2024년 6월 회고입니다.</td>
     </tr>
     </tbody></table>
