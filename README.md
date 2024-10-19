@@ -20,6 +20,13 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/2024-10-20-log">그간의 회고</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/10/20</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">오랜만에 작성한 회고입니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
             <a href="https://shkisme.vercel.app/Array-and-LinkedList">배열과 연결 리스트</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/09/21</td>
@@ -45,12 +52,5 @@
         </td>
         <td style="width: 33%; padding: 10px;">2024/09/01</td>
         <td style="width: 33%; padding: 10px; text-align: left;">화물운송플랫폼 ‘센디’에서 6개월간 백엔드 인턴으로 근무한 후 작성한 회고입니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/ElasticSearch-Juso-Search-5">ElasticSearch를 활용한 주소 검색 시스템 개발기 (5)</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/07/25</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">주소 업데이트 배치 작업을 진행했고 구주소를 검색했을시 신주소와 함께 검색 결과를 보여주도록 개선했습니다.</td>
     </tr>
     </tbody></table>
