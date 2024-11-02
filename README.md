@@ -41,7 +41,7 @@
     </tr>
     <tr>
         <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/daangn-intern-interview">당근 인턴 서류 합격 및 면접 후기 🥕</a>
+            <a href="https://shkisme.vercel.app/daangn-intern-interview">당근 인턴 서류 합격 및 면접 후기</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/09/19</td>
         <td style="width: 33%; padding: 10px; text-align: left;">당근 2024 썸머테크 인턴십 서류 합격 및 최종 면접 후기를 작성했습니다.</td>
