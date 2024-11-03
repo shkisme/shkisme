@@ -20,6 +20,13 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/graduation-assignment-retrospect">졸업 과제 네트워크 • 통신 분과 동상 수상 🏆</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/11/03</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">2024년 전기 졸업과제를 마무리했고, 회고록을 작성했습니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
             <a href="https://shkisme.vercel.app/2024-10-20-log">그간의 회고</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/10/20</td>
@@ -45,12 +52,5 @@
         </td>
         <td style="width: 33%; padding: 10px;">2024/09/19</td>
         <td style="width: 33%; padding: 10px; text-align: left;">당근 2024 썸머테크 인턴십 서류 합격 및 최종 면접 후기를 작성했습니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/sendy-intern-retrospect">센디 인턴 회고 🚚</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/09/01</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">화물운송플랫폼 ‘센디’에서 6개월간 백엔드 인턴으로 근무한 후 작성한 회고입니다.</td>
     </tr>
     </tbody></table>
