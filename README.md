@@ -20,6 +20,13 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/jpa-1">왜 JPA를 사용하는가?</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/11/05</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">JPA를 사용했을때의 이점을 정리했습니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
             <a href="https://shkisme.vercel.app/graduation-assignment-retrospect">졸업 과제 네트워크 • 통신 분과 동상 수상 🏆</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/11/03</td>
@@ -45,12 +52,5 @@
         </td>
         <td style="width: 33%; padding: 10px;">2024/09/20</td>
         <td style="width: 33%; padding: 10px; text-align: left;">시간 복잡도와 공간 복잡도에 대해 정리했습니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/daangn-intern-interview">당근 인턴 서류 합격 및 면접 후기</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/09/19</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">당근 2024 썸머테크 인턴십 서류 합격 및 최종 면접 후기를 작성했습니다.</td>
     </tr>
     </tbody></table>
