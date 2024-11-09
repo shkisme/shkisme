@@ -20,6 +20,20 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/spring-core">스프링의 핵심 원리</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/11/08</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">스프링의 핵심 원리를 정리해봤습니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/jpa-persistance">JPA의 영속성 컨텍스트</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/11/08</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">JPA의 영속성 컨텍스트에 대해 정리해봤습니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
             <a href="https://shkisme.vercel.app/jpa-1">왜 JPA를 사용하는가?</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/11/05</td>
@@ -38,19 +52,5 @@
         </td>
         <td style="width: 33%; padding: 10px;">2024/10/20</td>
         <td style="width: 33%; padding: 10px; text-align: left;">오랜만에 작성한 회고입니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/Array-and-LinkedList">배열과 연결 리스트</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/09/21</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">배열과 연결 리스트 자료구조에 대해 정리했습니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/Time-Space-Complexity">시간 복잡도와 공간 복잡도</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/09/20</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">시간 복잡도와 공간 복잡도에 대해 정리했습니다.</td>
     </tr>
     </tbody></table>
