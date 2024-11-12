@@ -20,10 +20,10 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/spring-core">스프링의 핵심 원리</a>
+            <a href="https://shkisme.vercel.app/jpa-entity-mapping">JPA 엔티티 매핑 전략</a>
         </td>
-        <td style="width: 33%; padding: 10px;">2024/11/08</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">스프링의 핵심 원리를 정리해봤습니다.</td>
+        <td style="width: 33%; padding: 10px;">2024/11/11</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">JPA 엔티티 매핑 전략에 대해 정리했습니다.</td>
     </tr>
     <tr>
         <td style="width: 33%; padding: 10px;">
@@ -34,7 +34,14 @@
     </tr>
     <tr>
         <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/jpa-1">왜 JPA를 사용하는가?</a>
+            <a href="https://shkisme.vercel.app/spring-core">스프링의 핵심 원리</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/11/08</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">스프링의 핵심 원리를 정리해봤습니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/jpa-start">왜 JPA를 사용하는가?</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/11/05</td>
         <td style="width: 33%; padding: 10px; text-align: left;">JPA를 사용했을때의 이점을 정리했습니다.</td>
@@ -45,12 +52,5 @@
         </td>
         <td style="width: 33%; padding: 10px;">2024/11/03</td>
         <td style="width: 33%; padding: 10px; text-align: left;">2024년 전기 졸업과제를 마무리했고, 회고록을 작성했습니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/2024-10-20-log">그간의 회고</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/10/20</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">오랜만에 작성한 회고입니다.</td>
     </tr>
     </tbody></table>
