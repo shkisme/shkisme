@@ -11,6 +11,7 @@
 
 ## 📝 Pinned [Blog](https://shkisme.vercel.app) Posts
 
+<div align="center">
 <table>
 <thead>
 <tr>
@@ -47,9 +48,11 @@
 
 </tbody>
 </table>
+</div>
 
 ## 📝 Latest [Blog](https://shkisme.vercel.app) Posts
 
+<div align="center">
 <table>
 <thead>
 <tr>
@@ -92,3 +95,4 @@
 
 </tbody>
 </table>
+</div>
