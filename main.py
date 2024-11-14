@@ -39,7 +39,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     soup = BeautifulSoup(description, 'html.parser')
     summary = soup.find('div', class_='content').text
     isPinned = soup.find('div', class_='isPinned').text
-    if (isPinned == "false"):
+    if isPinned == "false":
           continue
   
     markdown_text += f"""
@@ -50,9 +50,13 @@ for idx, feed in enumerate(RSS_FEED['entries']):
           <td style="width: 33%; padding: 10px;">{feed_date}</td>
           <td style="width: 33%; padding: 10px; text-align: left;">{summary}</td>
       </tr>
+    """
+    
+markdown_text += """
     </tbody>
   </table>
-</div>"""
+</div>
+"""
 
 markdown_text += """
 ## 📝 Latest [Blog](https://shkisme.vercel.app) Posts
@@ -90,10 +94,13 @@ for idx, feed in enumerate(RSS_FEED['entries']):
           <td style="width: 33%; padding: 10px;">{feed_date}</td>
           <td style="width: 33%; padding: 10px; text-align: left;">{summary}</td>
       </tr>
+    """
+    
+markdown_text += """
     </tbody>
   </table>
-</div>"""
+</div>
+"""
 
-f = open("README.md", mode="w", encoding="utf-8")
-f.write(markdown_text)
-f.close()
+with open("README.md", mode="w", encoding="utf-8") as f:
+    f.write(markdown_text)
