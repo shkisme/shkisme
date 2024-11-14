@@ -32,16 +32,15 @@ markdown_text += """
 """  # list of blog posts will be appended here
 
 for idx, feed in enumerate(RSS_FEED['entries']):
-    isPinned = soup.find('div', class_='isPinned').text
-    if (isPinned == False):
-        continue
-    
     feed_date = time.strftime('%Y/%m/%d', feed['published_parsed'])
     title = feed['title']
     link = feed['link']
     description = feed['description']
     soup = BeautifulSoup(description, 'html.parser')
     summary = soup.find('div', class_='content').text
+    isPinned = soup.find('div', class_='isPinned').text
+    if (isPinned == False):
+          continue
   
     markdown_text += f"""
       <tr>
