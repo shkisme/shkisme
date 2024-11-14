@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 
 URL="https://shkisme.vercel.app/rss.xml"
 RSS_FEED = feedparser.parse(URL)
-soup = BeautifulSoup(description, 'html.parser')
 
 markdown_text = """
 ## [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshkisme&count_bg=%23DAB628&title_bg=%232D2B55&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -41,6 +40,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     title = feed['title']
     link = feed['link']
     description = feed['description']
+    soup = BeautifulSoup(description, 'html.parser')
     summary = soup.find('div', class_='content').text
   
     markdown_text += f"""
@@ -80,8 +80,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     title = feed['title']
     link = feed['link']
     description = feed['description']
-
-    # div 태그 내부의 텍스트 추출하여 summary 설정
+    soup = BeautifulSoup(description, 'html.parser')
     summary = soup.find('div').find_next('div').text
   
     markdown_text += f"""
