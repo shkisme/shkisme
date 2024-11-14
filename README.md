@@ -29,9 +29,7 @@
           <td style="width: 33%; padding: 10px;">2024/11/03</td>
           <td style="width: 33%; padding: 10px; text-align: left;">2024년 전기 졸업과제를 마무리했고, 회고록을 작성했습니다.</td>
       </tr>
-    </tbody>
-  </table>
-</div>
+    
       <tr>
           <td style="width: 33%; padding: 10px;">
               <a href="https://shkisme.vercel.app/sendy-intern-retrospect">센디 인턴 회고 🚚</a>
@@ -39,9 +37,7 @@
           <td style="width: 33%; padding: 10px;">2024/09/01</td>
           <td style="width: 33%; padding: 10px; text-align: left;">화물운송플랫폼 ‘센디’에서 6개월간 백엔드 인턴으로 근무한 후 작성한 회고입니다.</td>
       </tr>
-    </tbody>
-  </table>
-</div>
+    
       <tr>
           <td style="width: 33%; padding: 10px;">
               <a href="https://shkisme.vercel.app/Sendy-Juso-Retrospect">센디 자체 주소 검색 시스템 릴리즈 🎉</a>
@@ -49,9 +45,7 @@
           <td style="width: 33%; padding: 10px;">2024/06/21</td>
           <td style="width: 33%; padding: 10px; text-align: left;">센디의 자체 주소 검색 시스템을 구축했고, 릴리즈했습니다.</td>
       </tr>
-    </tbody>
-  </table>
-</div>
+    
       <tr>
           <td style="width: 33%; padding: 10px;">
               <a href="https://shkisme.vercel.app/capstone-design-awards">캡스톤 디자인 경진대회 최우수상 수상 🏆</a>
@@ -59,9 +53,11 @@
           <td style="width: 33%; padding: 10px;">2024/02/16</td>
           <td style="width: 33%; padding: 10px; text-align: left;">BDD 1기 프로젝트 두레 프로젝트로 캡스톤 디자인 경진대회에 참여하였고 최우수상을 수상했습니다.</td>
       </tr>
+    
     </tbody>
   </table>
 </div>
+
 ## 📝 Latest [Blog](https://shkisme.vercel.app) Posts
 
 <div align = "center">
@@ -82,9 +78,7 @@
           <td style="width: 33%; padding: 10px;">2024/11/13</td>
           <td style="width: 33%; padding: 10px; text-align: left;">HTTP와 관련한 기본적인 개념들을 정리했습니다.</td>
       </tr>
-    </tbody>
-  </table>
-</div>
+    
       <tr>
           <td style="width: 33%; padding: 10px;">
               <a href="https://shkisme.vercel.app/jpa-entity-mapping">JPA 엔티티 매핑 전략</a>
@@ -92,9 +86,7 @@
           <td style="width: 33%; padding: 10px;">2024/11/11</td>
           <td style="width: 33%; padding: 10px; text-align: left;">JPA 엔티티 매핑 전략에 대해 정리했습니다.</td>
       </tr>
-    </tbody>
-  </table>
-</div>
+    
       <tr>
           <td style="width: 33%; padding: 10px;">
               <a href="https://shkisme.vercel.app/spring-core">스프링의 핵심 원리</a>
@@ -102,9 +94,7 @@
           <td style="width: 33%; padding: 10px;">2024/11/08</td>
           <td style="width: 33%; padding: 10px; text-align: left;">스프링의 핵심 원리를 정리해봤습니다.</td>
       </tr>
-    </tbody>
-  </table>
-</div>
+    
       <tr>
           <td style="width: 33%; padding: 10px;">
               <a href="https://shkisme.vercel.app/jpa-persistance">JPA의 영속성 컨텍스트</a>
@@ -112,9 +102,7 @@
           <td style="width: 33%; padding: 10px;">2024/11/08</td>
           <td style="width: 33%; padding: 10px; text-align: left;">JPA의 영속성 컨텍스트에 대해 정리해봤습니다.</td>
       </tr>
-    </tbody>
-  </table>
-</div>
+    
       <tr>
           <td style="width: 33%; padding: 10px;">
               <a href="https://shkisme.vercel.app/jpa-start">왜 JPA를 사용하는가?</a>
@@ -122,6 +110,7 @@
           <td style="width: 33%; padding: 10px;">2024/11/05</td>
           <td style="width: 33%; padding: 10px; text-align: left;">JPA를 사용했을때의 이점을 정리했습니다.</td>
       </tr>
+    
     </tbody>
   </table>
 </div>
