@@ -19,6 +19,7 @@ markdown_text = """
 markdown_text += """
 ## 📝 Pinned [Blog](https://shkisme.vercel.app) Posts
 
+<div align="center">
 <table>
 <thead>
 <tr>
@@ -53,12 +54,14 @@ for idx, feed in enumerate(RSS_FEED['entries']):
 markdown_text += """
 </tbody>
 </table>
+</div>
 """
 
 # Add latest posts
 markdown_text += """
 ## 📝 Latest [Blog](https://shkisme.vercel.app) Posts
 
+<div align="center">
 <table>
 <thead>
 <tr>
@@ -93,6 +96,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
 markdown_text += """
 </tbody>
 </table>
+</div>
 """
 
 with open("README.md", mode="w", encoding="utf-8") as f:
