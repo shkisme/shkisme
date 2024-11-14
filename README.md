@@ -20,6 +20,13 @@
 </thead><tbody>
 <tr>
         <td style="width: 33%; padding: 10px;">
+            <a href="https://shkisme.vercel.app/http-basic">HTTP 기본 개념</a>
+        </td>
+        <td style="width: 33%; padding: 10px;">2024/11/13</td>
+        <td style="width: 33%; padding: 10px; text-align: left;">HTTP 관련 기본 개념들을 정리했습니다.</td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px;">
             <a href="https://shkisme.vercel.app/jpa-entity-mapping">JPA 엔티티 매핑 전략</a>
         </td>
         <td style="width: 33%; padding: 10px;">2024/11/11</td>
@@ -45,12 +52,5 @@
         </td>
         <td style="width: 33%; padding: 10px;">2024/11/05</td>
         <td style="width: 33%; padding: 10px; text-align: left;">JPA를 사용했을때의 이점을 정리했습니다.</td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px;">
-            <a href="https://shkisme.vercel.app/graduation-assignment-retrospect">졸업 과제 네트워크 • 통신 분과 동상 수상 🏆</a>
-        </td>
-        <td style="width: 33%; padding: 10px;">2024/11/03</td>
-        <td style="width: 33%; padding: 10px; text-align: left;">2024년 전기 졸업과제를 마무리했고, 회고록을 작성했습니다.</td>
     </tr>
     </tbody></table>
