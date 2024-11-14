@@ -39,7 +39,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     soup = BeautifulSoup(description, 'html.parser')
     summary = soup.find('div', class_='content').text
     isPinned = soup.find('div', class_='isPinned').text
-    if (isPinned == False):
+    if (isPinned == "false"):
           continue
   
     markdown_text += f"""
