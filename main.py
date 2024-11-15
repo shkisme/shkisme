@@ -4,8 +4,7 @@ from bs4 import BeautifulSoup
 URL="https://shkisme.vercel.app/rss.xml"
 RSS_FEED = feedparser.parse(URL)
 
-markdown_text = """
-## [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshkisme&count_bg=%23DAB628&title_bg=%232D2B55&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+markdown_text = """## [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshkisme&count_bg=%23DAB628&title_bg=%232D2B55&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align="center">
 
@@ -16,8 +15,7 @@ markdown_text = """
 
 """
 
-markdown_text += """
-## 📝 Pinned [Blog](https://shkisme.vercel.app) Posts
+markdown_text += """## 📝 My [Blog](https://shkisme.vercel.app) Posts
 
 <div align="center">
 <table>
@@ -58,8 +56,8 @@ markdown_text += """
 """
 
 # Add latest posts
-markdown_text += """
-## 📝 Latest [Blog](https://shkisme.vercel.app) Posts
+markdown_text += """<details>
+<summary>⭐️ Latest Blog Posts</summary>
 
 <div align="center">
 <table>
