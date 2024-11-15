@@ -21,25 +21,25 @@
 <tbody>
 
 <tr>
-<td><a href="https://shkisme.vercel.app/graduation-assignment-retrospect">졸업 과제 네트워크 • 통신 분과 동상 수상 🏆</a></td>
+<td><a href="https://shkisme.vercel.app/graduation-assignment-retrospect">졸업 과제 네트워크 • 통신 분과 동상 수상</a></td>
 <td>2024/11/03</td>
 <td>2024년 전기 졸업과제를 마무리했고, 회고록을 작성했습니다.</td>
 </tr>
 
 <tr>
-<td><a href="https://shkisme.vercel.app/sendy-intern-retrospect">센디 인턴 회고 🚚</a></td>
-<td>2024/09/01</td>
-<td>화물운송플랫폼 ‘센디’에서 6개월간 백엔드 인턴으로 근무한 후 작성한 회고입니다.</td>
-</tr>
-
-<tr>
-<td><a href="https://shkisme.vercel.app/Sendy-Juso-Retrospect">센디 자체 주소 검색 시스템 릴리즈 🎉</a></td>
+<td><a href="https://shkisme.vercel.app/Sendy-Juso-Retrospect">센디 자체 주소 검색 시스템 릴리즈</a></td>
 <td>2024/06/21</td>
 <td>센디의 자체 주소 검색 시스템을 구축했고, 릴리즈했습니다.</td>
 </tr>
 
 <tr>
-<td><a href="https://shkisme.vercel.app/capstone-design-awards">캡스톤 디자인 경진대회 최우수상 수상 🏆</a></td>
+<td><a href="https://shkisme.vercel.app/blog-retrospect">개발 블로그 운영 회고</a></td>
+<td>2024/06/09</td>
+<td>약 1년 2개월 동안의 개발 블로그 운영 과정 회고입니다.</td>
+</tr>
+
+<tr>
+<td><a href="https://shkisme.vercel.app/capstone-design-awards">캡스톤 디자인 경진대회 최우수상 수상</a></td>
 <td>2024/02/16</td>
 <td>BDD 1기 프로젝트 두레 프로젝트로 캡스톤 디자인 경진대회에 참여하였고 최우수상을 수상했습니다.</td>
 </tr>
