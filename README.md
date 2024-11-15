@@ -1,4 +1,3 @@
-
 ## [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshkisme&count_bg=%23DAB628&title_bg=%232D2B55&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align="center">
@@ -8,8 +7,7 @@
 
 </div>
 
-
-## 📝 Pinned [Blog](https://shkisme.vercel.app) Posts
+## 📝 My [Blog](https://shkisme.vercel.app) Posts
 
 <div align="center">
 <table>
@@ -49,8 +47,8 @@
 </tbody>
 </table>
 </div>
-
-## 📝 Latest [Blog](https://shkisme.vercel.app) Posts
+<details>
+<summary>⭐️ Latest Blog Posts</summary>
 
 <div align="center">
 <table>
