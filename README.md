@@ -41,7 +41,7 @@
 <tr>
 <td><a href="https://shkisme.vercel.app/capstone-design-awards">캡스톤 디자인 경진대회 최우수상 수상</a></td>
 <td>2024/02/16</td>
-<td>BDD 1기 프로젝트 두레 프로젝트로 캡스톤 디자인 경진대회에 참여하였고 최우수상을 수상했습니다.</td>
+<td>BDD 1기 프로젝트 `두레`로 캡스톤 디자인 경진대회에 참여하였고 최우수상을 수상했습니다.</td>
 </tr>
 
 </tbody>
@@ -74,15 +74,15 @@
 </tr>
 
 <tr>
-<td><a href="https://shkisme.vercel.app/spring-core">스프링의 핵심 원리</a></td>
-<td>2024/11/08</td>
-<td>스프링의 핵심 원리를 정리해봤습니다.</td>
-</tr>
-
-<tr>
 <td><a href="https://shkisme.vercel.app/jpa-persistance">JPA의 영속성 컨텍스트</a></td>
 <td>2024/11/08</td>
 <td>JPA의 영속성 컨텍스트에 대해 정리해봤습니다.</td>
+</tr>
+
+<tr>
+<td><a href="https://shkisme.vercel.app/spring-core">스프링의 핵심 원리</a></td>
+<td>2024/11/08</td>
+<td>스프링의 핵심 원리를 정리해봤습니다.</td>
 </tr>
 
 <tr>
