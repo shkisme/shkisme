@@ -62,6 +62,12 @@
 <tbody>
 
 <tr>
+<td><a href="https://shkisme.vercel.app/jpa-relation-mapping">JPA 연관관계 매핑</a></td>
+<td>2024/11/17</td>
+<td>JPA 연관관계 매핑 방법들에 대해 정리했습니다.</td>
+</tr>
+
+<tr>
 <td><a href="https://shkisme.vercel.app/http-basic">HTTP 관련 기본 지식들</a></td>
 <td>2024/11/13</td>
 <td>HTTP와 관련한 기본적인 개념들을 정리했습니다.</td>
@@ -83,12 +89,6 @@
 <td><a href="https://shkisme.vercel.app/spring-core">스프링의 핵심 원리</a></td>
 <td>2024/11/08</td>
 <td>스프링의 핵심 원리를 정리해봤습니다.</td>
-</tr>
-
-<tr>
-<td><a href="https://shkisme.vercel.app/jpa-start">왜 JPA를 사용하는가?</a></td>
-<td>2024/11/05</td>
-<td>JPA를 사용했을때의 이점을 정리했습니다.</td>
 </tr>
 
 </tbody>
