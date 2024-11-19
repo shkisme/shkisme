@@ -62,6 +62,12 @@
 <tbody>
 
 <tr>
+<td><a href="https://shkisme.vercel.app/BFS-DFS">BFS와 DFS</a></td>
+<td>2024/11/18</td>
+<td>BFS와 DFS를 정리했습니다.</td>
+</tr>
+
+<tr>
 <td><a href="https://shkisme.vercel.app/jpa-relation-mapping">JPA 연관관계 매핑</a></td>
 <td>2024/11/17</td>
 <td>JPA 연관관계 매핑 방법들에 대해 정리했습니다.</td>
@@ -83,12 +89,6 @@
 <td><a href="https://shkisme.vercel.app/jpa-persistance">JPA의 영속성 컨텍스트</a></td>
 <td>2024/11/08</td>
 <td>JPA의 영속성 컨텍스트에 대해 정리해봤습니다.</td>
-</tr>
-
-<tr>
-<td><a href="https://shkisme.vercel.app/spring-core">스프링의 핵심 원리</a></td>
-<td>2024/11/08</td>
-<td>스프링의 핵심 원리를 정리해봤습니다.</td>
 </tr>
 
 </tbody>
