@@ -86,9 +86,9 @@
 </tr>
 
 <tr>
-<td><a href="https://shkisme.vercel.app/jpa-persistance">JPA의 영속성 컨텍스트</a></td>
+<td><a href="https://shkisme.vercel.app/spring-core">스프링의 핵심 원리</a></td>
 <td>2024/11/08</td>
-<td>JPA의 영속성 컨텍스트에 대해 정리해봤습니다.</td>
+<td>스프링의 핵심 원리를 정리해봤습니다.</td>
 </tr>
 
 </tbody>
