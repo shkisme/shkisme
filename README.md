@@ -21,9 +21,9 @@
 <tbody>
 
 <tr>
-<td><a href="https://shkisme.vercel.app/graduation-assignment-retrospect">졸업 과제 네트워크 • 통신 분과 동상 수상</a></td>
+<td><a href="https://shkisme.vercel.app/graduation-assignment-retrospect">졸업 과제를 마무리하며</a></td>
 <td>2024/11/03</td>
-<td>2024년 전기 졸업과제를 마무리했고, 회고록을 작성했습니다.</td>
+<td>약 8개월동안 진행했던 2024년 전기 졸업과제를 마무리했고, 회고록을 작성했습니다.</td>
 </tr>
 
 <tr>
