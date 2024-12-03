@@ -62,33 +62,33 @@
 <tbody>
 
 <tr>
+<td><a href="https://shkisme.vercel.app/simulation">시뮬레이션</a></td>
+<td>2024/11/29</td>
+<td>undefined</td>
+</tr>
+
+<tr>
+<td><a href="https://shkisme.vercel.app/backtracking">백트래킹</a></td>
+<td>2024/11/27</td>
+<td>undefined</td>
+</tr>
+
+<tr>
+<td><a href="https://shkisme.vercel.app/sort-1">정렬 알고리즘 (1)</a></td>
+<td>2024/11/25</td>
+<td>선택 정렬, 버블 정렬, 머지 소트, 퀵 소트 정렬 알고리즘들을 정리했습니다.</td>
+</tr>
+
+<tr>
 <td><a href="https://shkisme.vercel.app/BFS-DFS">BFS와 DFS</a></td>
 <td>2024/11/18</td>
-<td>BFS와 DFS를 정리했습니다.</td>
+<td>undefined</td>
 </tr>
 
 <tr>
 <td><a href="https://shkisme.vercel.app/jpa-relation-mapping">JPA 연관관계 매핑</a></td>
 <td>2024/11/17</td>
-<td>JPA 연관관계 매핑 방법들에 대해 정리했습니다.</td>
-</tr>
-
-<tr>
-<td><a href="https://shkisme.vercel.app/http-basic">HTTP 관련 기본 지식들</a></td>
-<td>2024/11/13</td>
-<td>HTTP와 관련한 기본적인 개념들을 정리했습니다.</td>
-</tr>
-
-<tr>
-<td><a href="https://shkisme.vercel.app/jpa-entity-mapping">JPA 엔티티 매핑 전략</a></td>
-<td>2024/11/11</td>
-<td>JPA 엔티티 매핑 전략에 대해 정리했습니다.</td>
-</tr>
-
-<tr>
-<td><a href="https://shkisme.vercel.app/jpa-persistance">JPA의 영속성 컨텍스트</a></td>
-<td>2024/11/08</td>
-<td>JPA의 영속성 컨텍스트에 대해 정리해봤습니다.</td>
+<td>undefined</td>
 </tr>
 
 </tbody>
