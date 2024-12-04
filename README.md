@@ -62,6 +62,12 @@
 <tbody>
 
 <tr>
+<td><a href="https://shkisme.vercel.app/sort-2">정렬 알고리즘 (2)</a></td>
+<td>2024/12/03</td>
+<td>Counting Sort, Radix Sort에 대해 정리했습니다.</td>
+</tr>
+
+<tr>
 <td><a href="https://shkisme.vercel.app/simulation">시뮬레이션</a></td>
 <td>2024/11/29</td>
 <td>undefined</td>
@@ -82,12 +88,6 @@
 <tr>
 <td><a href="https://shkisme.vercel.app/BFS-DFS">BFS와 DFS</a></td>
 <td>2024/11/18</td>
-<td>undefined</td>
-</tr>
-
-<tr>
-<td><a href="https://shkisme.vercel.app/jpa-relation-mapping">JPA 연관관계 매핑</a></td>
-<td>2024/11/17</td>
 <td>undefined</td>
 </tr>
 
