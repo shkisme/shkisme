@@ -62,9 +62,21 @@
 <tbody>
 
 <tr>
-<td><a href="https://shkisme.vercel.app/sort-2">정렬 알고리즘 (2)</a></td>
+<td><a href="https://shkisme.vercel.app/dynamic-programming">다이나믹 프로그래밍</a></td>
 <td>2024/12/03</td>
+<td>undefined</td>
+</tr>
+
+<tr>
+<td><a href="https://shkisme.vercel.app/sort-2">정렬 알고리즘 (2)</a></td>
+<td>2024/12/02</td>
 <td>Counting Sort, Radix Sort에 대해 정리했습니다.</td>
+</tr>
+
+<tr>
+<td><a href="https://shkisme.vercel.app/sort-1">정렬 알고리즘 (1)</a></td>
+<td>2024/12/01</td>
+<td>선택 정렬, 버블 정렬, 머지 소트, 퀵 소트 정렬 알고리즘들을 정리했습니다.</td>
 </tr>
 
 <tr>
@@ -76,18 +88,6 @@
 <tr>
 <td><a href="https://shkisme.vercel.app/backtracking">백트래킹</a></td>
 <td>2024/11/27</td>
-<td>undefined</td>
-</tr>
-
-<tr>
-<td><a href="https://shkisme.vercel.app/sort-1">정렬 알고리즘 (1)</a></td>
-<td>2024/11/25</td>
-<td>선택 정렬, 버블 정렬, 머지 소트, 퀵 소트 정렬 알고리즘들을 정리했습니다.</td>
-</tr>
-
-<tr>
-<td><a href="https://shkisme.vercel.app/BFS-DFS">BFS와 DFS</a></td>
-<td>2024/11/18</td>
 <td>undefined</td>
 </tr>
 
