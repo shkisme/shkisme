@@ -62,6 +62,12 @@
 <tbody>
 
 <tr>
+<td><a href="https://shkisme.vercel.app/2024-retrospect">2024년 연말 회고</a></td>
+<td>2024/12/20</td>
+<td>undefined</td>
+</tr>
+
+<tr>
 <td><a href="https://shkisme.vercel.app/dynamic-programming">다이나믹 프로그래밍</a></td>
 <td>2024/12/03</td>
 <td>undefined</td>
@@ -82,12 +88,6 @@
 <tr>
 <td><a href="https://shkisme.vercel.app/simulation">시뮬레이션</a></td>
 <td>2024/11/29</td>
-<td>undefined</td>
-</tr>
-
-<tr>
-<td><a href="https://shkisme.vercel.app/backtracking">백트래킹</a></td>
-<td>2024/11/27</td>
 <td>undefined</td>
 </tr>
 
