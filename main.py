@@ -58,17 +58,6 @@ markdown_text += """
 # Add latest posts
 markdown_text += """<details>
 <summary>⭐️ Latest Blog Posts</summary>
-
-<div align="center">
-<table>
-<thead>
-<tr>
-<th>Title</th>
-<th>Date</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
 """
 
 MAX_POST = 5
@@ -84,17 +73,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     summary = soup.find('div').find_next('div').text
 
     markdown_text += f"""
-<tr>
-<td><a href="{link}">{title}</a></td>
-<td>{feed_date}</td>
-<td>{summary}</td>
-</tr>
-"""
-
-markdown_text += """
-</tbody>
-</table>
-</div>
+- [{title}]({link})
 """
 
 with open("README.md", mode="w", encoding="utf-8") as f:
