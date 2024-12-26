@@ -50,47 +50,12 @@
 <details>
 <summary>⭐️ Latest Blog Posts</summary>
 
-<div align="center">
-<table>
-<thead>
-<tr>
-<th>Title</th>
-<th>Date</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
+- [2024년 연말 회고](https://shkisme.vercel.app/2024-retrospect)
 
-<tr>
-<td><a href="https://shkisme.vercel.app/2024-retrospect">2024년 연말 회고</a></td>
-<td>2024/12/20</td>
-<td>undefined</td>
-</tr>
+- [다이나믹 프로그래밍](https://shkisme.vercel.app/dynamic-programming)
 
-<tr>
-<td><a href="https://shkisme.vercel.app/dynamic-programming">다이나믹 프로그래밍</a></td>
-<td>2024/12/03</td>
-<td>undefined</td>
-</tr>
+- [정렬 알고리즘 (2)](https://shkisme.vercel.app/sort-2)
 
-<tr>
-<td><a href="https://shkisme.vercel.app/sort-2">정렬 알고리즘 (2)</a></td>
-<td>2024/12/02</td>
-<td>Counting Sort, Radix Sort에 대해 정리했습니다.</td>
-</tr>
+- [정렬 알고리즘 (1)](https://shkisme.vercel.app/sort-1)
 
-<tr>
-<td><a href="https://shkisme.vercel.app/sort-1">정렬 알고리즘 (1)</a></td>
-<td>2024/12/01</td>
-<td>선택 정렬, 버블 정렬, 머지 소트, 퀵 소트 정렬 알고리즘들을 정리했습니다.</td>
-</tr>
-
-<tr>
-<td><a href="https://shkisme.vercel.app/simulation">시뮬레이션</a></td>
-<td>2024/11/29</td>
-<td>undefined</td>
-</tr>
-
-</tbody>
-</table>
-</div>
+- [시뮬레이션](https://shkisme.vercel.app/simulation)
