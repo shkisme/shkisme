@@ -73,7 +73,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     summary = soup.find('div').find_next('div').text
 
     markdown_text += f"""
-- [{title} ({feed_date})]({link})
+- [{title} [{feed_date}]]({link})
 """
 
 with open("README.md", mode="w", encoding="utf-8") as f:
