@@ -50,8 +50,6 @@
 <details>
 <summary>⭐️ Latest Blog Posts</summary>
 
-- [2024년 연말 회고 [2024/12/20]](https://shkisme.vercel.app/2024-retrospect)
-
 - [다이나믹 프로그래밍 [2024/12/03]](https://shkisme.vercel.app/dynamic-programming)
 
 - [정렬 알고리즘 (2) [2024/12/02]](https://shkisme.vercel.app/sort-2)
@@ -59,3 +57,5 @@
 - [정렬 알고리즘 (1) [2024/12/01]](https://shkisme.vercel.app/sort-1)
 
 - [시뮬레이션 [2024/11/29]](https://shkisme.vercel.app/simulation)
+
+- [백트래킹 [2024/11/27]](https://shkisme.vercel.app/backtracking)
